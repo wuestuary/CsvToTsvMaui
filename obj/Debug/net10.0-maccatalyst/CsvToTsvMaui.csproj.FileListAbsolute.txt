@@ -1,0 +1,15 @@
+C:\Users\wuest\source\repos\CsvToTsvMaui\bin\Debug\net10.0-maccatalyst\CsvToTsvMaui.dll
+C:\Users\wuest\source\repos\CsvToTsvMaui\bin\Debug\net10.0-maccatalyst\CsvToTsvMaui.pdb
+C:\Users\wuest\source\repos\CsvToTsvMaui\obj\Debug\net10.0-maccatalyst\_ProcessedBundleResourcesPath.items
+C:\Users\wuest\source\repos\CsvToTsvMaui\obj\Debug\net10.0-maccatalyst\_ProcessedContentPath.items
+C:\Users\wuest\source\repos\CsvToTsvMaui\obj\Debug\net10.0-maccatalyst\CsvToTsvMaui.csproj.AssemblyReference.cache
+C:\Users\wuest\source\repos\CsvToTsvMaui\obj\Debug\net10.0-maccatalyst\CsvToTsvMaui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wuest\source\repos\CsvToTsvMaui\obj\Debug\net10.0-maccatalyst\CsvToTsvMaui.AssemblyInfoInputs.cache
+C:\Users\wuest\source\repos\CsvToTsvMaui\obj\Debug\net10.0-maccatalyst\CsvToTsvMaui.AssemblyInfo.cs
+C:\Users\wuest\source\repos\CsvToTsvMaui\obj\Debug\net10.0-maccatalyst\CsvToTsvMaui.csproj.CoreCompileInputs.cache
+C:\Users\wuest\source\repos\CsvToTsvMaui\obj\Debug\net10.0-maccatalyst\CsvToTsvMaui.sourcelink.json
+C:\Users\wuest\source\repos\CsvToTsvMaui\obj\Debug\net10.0-maccatalyst\XamlC.stamp
+C:\Users\wuest\source\repos\CsvToTsvMaui\obj\Debug\net10.0-maccatalyst\CsvToTsvMaui.dll
+C:\Users\wuest\source\repos\CsvToTsvMaui\obj\Debug\net10.0-maccatalyst\refint\CsvToTsvMaui.dll
+C:\Users\wuest\source\repos\CsvToTsvMaui\obj\Debug\net10.0-maccatalyst\CsvToTsvMaui.pdb
+C:\Users\wuest\source\repos\CsvToTsvMaui\obj\Debug\net10.0-maccatalyst\ref\CsvToTsvMaui.dll

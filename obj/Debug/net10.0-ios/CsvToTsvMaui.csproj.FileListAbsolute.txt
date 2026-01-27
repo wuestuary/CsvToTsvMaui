@@ -1,0 +1,15 @@
+C:\Users\wuest\source\repos\CsvToTsvMaui\bin\Debug\net10.0-ios\CsvToTsvMaui.dll
+C:\Users\wuest\source\repos\CsvToTsvMaui\bin\Debug\net10.0-ios\CsvToTsvMaui.pdb
+C:\Users\wuest\source\repos\CsvToTsvMaui\obj\Debug\net10.0-ios\_ProcessedBundleResourcesPath.items
+C:\Users\wuest\source\repos\CsvToTsvMaui\obj\Debug\net10.0-ios\_ProcessedContentPath.items
+C:\Users\wuest\source\repos\CsvToTsvMaui\obj\Debug\net10.0-ios\CsvToTsvMaui.csproj.AssemblyReference.cache
+C:\Users\wuest\source\repos\CsvToTsvMaui\obj\Debug\net10.0-ios\CsvToTsvMaui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wuest\source\repos\CsvToTsvMaui\obj\Debug\net10.0-ios\CsvToTsvMaui.AssemblyInfoInputs.cache
+C:\Users\wuest\source\repos\CsvToTsvMaui\obj\Debug\net10.0-ios\CsvToTsvMaui.AssemblyInfo.cs
+C:\Users\wuest\source\repos\CsvToTsvMaui\obj\Debug\net10.0-ios\CsvToTsvMaui.csproj.CoreCompileInputs.cache
+C:\Users\wuest\source\repos\CsvToTsvMaui\obj\Debug\net10.0-ios\CsvToTsvMaui.sourcelink.json
+C:\Users\wuest\source\repos\CsvToTsvMaui\obj\Debug\net10.0-ios\XamlC.stamp
+C:\Users\wuest\source\repos\CsvToTsvMaui\obj\Debug\net10.0-ios\CsvToTsvMaui.dll
+C:\Users\wuest\source\repos\CsvToTsvMaui\obj\Debug\net10.0-ios\refint\CsvToTsvMaui.dll
+C:\Users\wuest\source\repos\CsvToTsvMaui\obj\Debug\net10.0-ios\CsvToTsvMaui.pdb
+C:\Users\wuest\source\repos\CsvToTsvMaui\obj\Debug\net10.0-ios\ref\CsvToTsvMaui.dll

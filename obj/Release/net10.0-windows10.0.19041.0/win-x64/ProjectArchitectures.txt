@@ -1,0 +1,1 @@
+C:\Users\wuest\source\repos\CsvToTsvMaui\CsvToTsvMaui.csproj;x64

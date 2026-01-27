@@ -1,0 +1,9 @@
+<api type="release" assembly-name="CommunityToolkit.Maui.Core" mvid="da81ac6baeb24979a9150ba60da59e72">
+  <module assembly-name="CommunityToolkit.Maui.Core" mvid="da81ac6baeb24979a9150ba60da59e72" mvid-bytes="a6yB2rKueUmpFQumDaWecg==">
+    <types-scratch>
+      <entry key="crc64159f3caeb1269279/MauiDrawingView" java-name="crc64159f3caeb1269279/MauiDrawingView" managed-type-name="CommunityToolkit.Maui.Core.Views.MauiDrawingView" token="33554454" />
+      <entry key="crc64159f3caeb1269279/MauiPopup" java-name="crc64159f3caeb1269279/MauiPopup" managed-type-name="CommunityToolkit.Maui.Core.Views.MauiPopup" token="33554458" />
+      <entry key="crc64159f3caeb1269279/MauiSemanticOrderView" java-name="crc64159f3caeb1269279/MauiSemanticOrderView" managed-type-name="CommunityToolkit.Maui.Core.Views.MauiSemanticOrderView" token="33554460" />
+    </types-scratch>
+  </module>
+</api>

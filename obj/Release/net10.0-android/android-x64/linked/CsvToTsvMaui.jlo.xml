@@ -1,0 +1,15 @@
+<api>
+  <jcw-types>
+    <type name="MainActivity" package="crc647dde881c9aa6a14d" application_java_class="android.app.Application" mono_runtime_initialization="mono.MonoPackageManager.LoadApplication (context);" extends_type="crc6488302ad6e9e4df1a.MauiAppCompatActivity" partial_assembly_qualified_name="CsvToTsvMaui.MainActivity, CsvToTsvMaui">
+      <constructors>
+        <constructor name="MainActivity" method="n_.ctor:()V:" jni_signature="()V" managed_parameters="" retval="void" is_dynamically_registered="True" />
+        <constructor name="MainActivity" method="n_.ctor:(I)V:" jni_signature="(I)V" managed_parameters="System.Int32, System.Private.CoreLib" params="int p0" retval="void" is_dynamically_registered="True" super_call="p0" activate_call="p0" />
+      </constructors>
+    </type>
+    <type name="MainApplication" package="crc647dde881c9aa6a14d" application_java_class="android.app.Application" mono_runtime_initialization="mono.MonoPackageManager.LoadApplication (context);" extends_type="crc6488302ad6e9e4df1a.MauiApplication" is_application="True" partial_assembly_qualified_name="CsvToTsvMaui.MainApplication, CsvToTsvMaui" application_constructor="MainApplication" />
+  </jcw-types>
+  <acw-types partial-assembly-name="CsvToTsvMaui" module-name="CsvToTsvMaui.dll">
+    <type assembly-qualified-name="CsvToTsvMaui.MainActivity, CsvToTsvMaui, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" compat-jni-name="csvtotsvmaui.MainActivity" java-key="crc647dde881c9aa6a14d.MainActivity" managed-key="CsvToTsvMaui.MainActivity" partial-assembly-qualified-name="CsvToTsvMaui.MainActivity, CsvToTsvMaui" />
+    <type assembly-qualified-name="CsvToTsvMaui.MainApplication, CsvToTsvMaui, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" compat-jni-name="csvtotsvmaui.MainApplication" java-key="crc647dde881c9aa6a14d.MainApplication" managed-key="CsvToTsvMaui.MainApplication" partial-assembly-qualified-name="CsvToTsvMaui.MainApplication, CsvToTsvMaui" />
+  </acw-types>
+</api>

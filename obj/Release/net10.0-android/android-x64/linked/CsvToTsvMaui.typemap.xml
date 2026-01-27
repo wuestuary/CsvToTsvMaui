@@ -1,0 +1,8 @@
+<api type="release" assembly-name="CsvToTsvMaui" mvid="d9ab11f0d61448899621bf719fc29013">
+  <module assembly-name="CsvToTsvMaui" mvid="d9ab11f0d61448899621bf719fc29013" mvid-bytes="8BGr2RTWiUiWIb9xn8KQEw==">
+    <types-scratch>
+      <entry key="crc647dde881c9aa6a14d/MainActivity" java-name="crc647dde881c9aa6a14d/MainActivity" managed-type-name="CsvToTsvMaui.MainActivity" token="33554501" />
+      <entry key="crc647dde881c9aa6a14d/MainApplication" java-name="crc647dde881c9aa6a14d/MainApplication" managed-type-name="CsvToTsvMaui.MainApplication" token="33554502" />
+    </types-scratch>
+  </module>
+</api>
