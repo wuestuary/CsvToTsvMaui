@@ -10,7 +10,7 @@ jobs:
   windows:
     runs-on: windows-latest
     steps:
-      - name: Checkout repo
+      - name: Checkout code
         uses: actions/checkout@v4
 
       - name: Setup .NET 10
@@ -20,9 +20,6 @@ jobs:
 
       - name: Install MAUI workloads
         run: dotnet workload install maui
-
-      - name: Restore dependencies
-        run: dotnet restore
 
       - name: Build Windows
         run: dotnet build -c Release -f net10.0-windows10.0.19041.0
@@ -33,7 +30,7 @@ jobs:
   macos:
     runs-on: macos-latest
     steps:
-      - name: Checkout repo
+      - name: Checkout code
         uses: actions/checkout@v4
 
       - name: Setup .NET 10
@@ -44,10 +41,6 @@ jobs:
       - name: Install MAUI workloads
         run: dotnet workload install maui
 
-      - name: Restore dependencies
-        run: dotnet restore
-
-      # 使用 net9.0 保证 GitHub macOS runner 支持
       - name: Build MacCatalyst
         run: dotnet build -c Release -f net9.0-maccatalyst
 
