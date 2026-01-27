@@ -42,4 +42,4 @@ jobs:
         run: dotnet restore
 
       - name: Build (Mac Catalyst)
-        run: dotnet build -c Release -f net10.0-maccatalyst
+        run: dotnet build -c Release -f net8.0-maccatalyst
