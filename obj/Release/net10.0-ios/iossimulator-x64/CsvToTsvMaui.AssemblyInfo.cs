@@ -13,12 +13,12 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CsvToTsvMaui")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a182c54b97768dc59d39a94f4384a713f49aaf69")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f44583bda601b37a833efd9a332693f2734ca9b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("CsvToTsvMaui")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CsvToTsvMaui")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("iOS26.2")]
-[assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("iOS26.2")]
+[assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("iOS10.0.19041.0")]
 
 // 由 MSBuild WriteCodeFragment 类生成。
 

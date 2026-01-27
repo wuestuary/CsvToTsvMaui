@@ -1,9 +1,11 @@
-﻿namespace CsvToTsvMaui;
+﻿using Microsoft.Maui.Controls;
+
+namespace CsvToTsvMaui;
 
 public partial class AppShell : Shell
 {
-	public AppShell()
-	{
-		InitializeComponent();
-	}
+    public AppShell()
+    {
+        InitializeComponent();
+    }
 }
